@@ -1,15 +1,15 @@
-# Kurs i Geologisk Python-programmering: Oppsettsinstruksjoner
+# Introduksjonskurs i Python-programmering: Oppsettsinstruksjoner
 
 Velkommen til kurset i Geologisk Python-programmering! Før vi starter kurset, er det viktig at vi setter opp vårt programmeringsmiljø. Nedenfor er en oversikt over kursmatriellet og instruksjoner for å få alt på plass.
 
-- [Kurs i Geologisk Python-programmering: Oppsettsinstruksjoner](#kurs-i-geologisk-python-programmering-oppsettsinstruksjoner) 
-  - [0\. Git-repositorium](#0-git-repositorium) 
+- [Introduksjonskurs i Python-programmering: Oppsettsinstruksjoner](#introduksjonskurs-i-python-programmering-oppsettsinstruksjoner)
+  - [0. Git-repositorium](#0-git-repositorium)
     - [Forklaring:](#forklaring)
-  - [1\. Installer Anaconda](#1-installer-anaconda)
-  - [2\. Opprett et virtual environment for kurset](#2-opprett-et-virtual-environment-for-kurset)
-  - [3\. Installer Spyder, Jupyter Notebook og PowerShell Prompt](#3-installer-spyder-jupyter-notebook-og-powershell-prompt)
-  - [4\. Legg til "conda-forge" pakke samling](#4-legg-til-conda-forge-pakke-samling)
-  - [5\. Installer nødvendige pakker for kurset](#5-installer-n%C3%B8dvendige-pakker-for-kurset)
+  - [1. Installer Anaconda](#1-installer-anaconda)
+  - [2. Opprett et virtual environment for kurset](#2-opprett-et-virtual-environment-for-kurset)
+  - [3. Installer Spyder, Jupyter Notebook og PowerShell Prompt](#3-installer-spyder-jupyter-notebook-og-powershell-prompt)
+  - [4. Legg til "conda-forge" pakke samling](#4-legg-til-conda-forge-pakke-samling)
+  - [5. Installer nødvendige pakker for kurset](#5-installer-nødvendige-pakker-for-kurset)
 - [Ferdig!](#ferdig)
 
 ## 0\. Git-repositorium
@@ -53,18 +53,20 @@ python-for-geoteknikk-og-geologi/
 
 ### Forklaring:
 
-- README.md: 
+- README: 
   - En innledende fil som gir en oversikt over kurset, instruksjoner for hvordan man setter opp miljøet (f.eks. installasjon av Anaconda), og hvordan man navigerer i repositoriet.
 - requirements.txt: 
   - En liste over alle Python-pakkene som er nødvendige for kurset. Deltakere kan installere alle nødvendige pakker ved å kjøre pip install -r requirements.txt.
-- notebooks/: 
+- **notebooks/**: 
   - Inneholder Jupyter Notebooks, som er interaktive dokumenter der du kan kombinere kode, tekst, og visualiseringer. Disse filene kan brukes som en interaktiv del av kursundervisningen.
-- data/: 
+- **data/**: 
   - Datasett som brukes gjennom kurset, som for eksempel CSV-filer med geologiske data.
-- scripts/: 
+- **scripts/**: 
   - Python-skript som demonstrerer spesifikke teknikker eller mer komplekse eksempler som kan kjøres separat fra notebooks (i en vanlig IDE).
-    - fullførte_eksempler/: 
+  - **fullførte_eksempler/**: 
       - Fullførte python-eksempler som inneholder alle eksemplene fra notebooks-mappen. I tillegg ligger eksemplene som vanlige python-filer, som kan åpnes i en IDE.
+- **src/**: 
+  - python source kode vi skrive på kurset i en IDE  plasseres her
 
 ## 1\. Installer Anaconda
 
