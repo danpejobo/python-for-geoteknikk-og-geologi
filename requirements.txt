@@ -1,0 +1,6 @@
+spyder-terminal
+libgeosuitesnd
+numpy
+pandas
+matplotlib
+openpyxl
