@@ -19,6 +19,9 @@ Kursmateriellet er satt opp i et git-repositorium som vi laster ned før vi star
 ```
 python-for-geoteknikk-og-geologi/
 │
+├── fremvisning-Introduksjonskurs-i-Python.pdf
+├── fremvisning-Introduksjonskurs-i-Python.pptx
+├── LICENSE
 ├── README.md
 ├── requirements.txt
 │
