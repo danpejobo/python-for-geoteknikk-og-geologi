@@ -76,7 +76,7 @@ python-for-geoteknikk-og-geologi/
 Anaconda er en populær distribusjon av Python og R for vitenskapelig databehandling og maskinlæring. Det vil gjøre det enkelt for oss å installere og administrere alle de nødvendige verktøyene og bibliotekene for dette kurset.
 
 - Last ned Anaconda fra den offisielle nettsiden, og følg installasjonsinstruksjonene for ditt operativsystem.
-- Følg stegene "Installer", "Starte" og les "Virtual environements (venv)" i [GeoWiki@Anaconda](https://app.nuclino.com/Geovita/GeoWiki/Anaconda-conda-acb3238d-87d7-4179-98fd-b548eecb54b0)
+- Følg stegene "Installer", "Starte" og les "Virtual environements (venv)" i [GeoWiki@Anaconda](https://app.nuclino.com/)
 
 ## 2\. Opprett et virtual environment for kurset
 
